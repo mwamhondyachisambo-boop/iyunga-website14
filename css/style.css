@@ -1,0 +1,118 @@
+h1{
+    color: blue;
+    text-align: center;
+    padding: 20px;
+    font-size: 4rem;
+    background-color: lightblue;
+}
+.main-nav ul{
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    
+}
+.site-header{
+    color: black;
+    text-align: center;
+    background-color: lightblue;
+    font-size: 5rem;
+}
+.btn{
+    text-decoration: none;
+    font-size: 2rem;
+    color: darkblue;
+}
+p{
+    text-align: center;
+    font-size: 32px;
+
+}
+h2{
+    color:green;
+    text-align: center;
+    font-size: 2rem;
+}
+nav a{
+    text-decoration: none;
+    color: darkgoldenrod;
+    font-size: 2rem;
+    padding: 1.5rem;
+}
+.contact{
+    color: black;
+    background-color: whitesmoke
+}
+.academics ul {
+    list-style: none;
+    padding: 2rem;
+    margin: 2rem;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 2rem;
+}
+.about{
+    background-color: khaki;
+}
+.site-footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.hero{
+    text-align: center;
+    padding: 30px;
+    text-decoration: none;
+}
+.counter{
+    width: 90%;
+    max-width: 12rem;
+    margin: auto;
+}
+.form-container input {
+    width: 100%;
+    padding: 1px; 
+    border: 5px solid black 
+    border-radius 6px;
+    font-size: 1.5rem;
+    outline: none;
+} 
+table, th, td{
+    border: 1px solid black;
+    padding: 1rem;
+    border-collapse: collapse;
+} 
+table{
+    width: 100%;
+    text-align: center;
+} 
+form {
+    margin: 5rem;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+}
+.form-student{
+    width: 10%;
+    max-width: 40px; 
+    border-collapse: collapse;
+}
+.results-box h3 {
+    text-align: center;
+    color: darkblue;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 22px;
+    border-bottom: 2px solid darkblue;
+    padding-bottom: 10px;
+    font-size: 2rem;
+}
+.table-results th {
+    font-size: 18px;
+}
+    
